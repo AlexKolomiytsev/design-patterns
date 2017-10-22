@@ -2,7 +2,7 @@
   "verbose": true,
   "ignore": [],
   "execMap": {
-    "js": "babel-node --presets es2015,stage-0"
+    "js": "babel-node"
   },
   "watch": [
     "src/"
